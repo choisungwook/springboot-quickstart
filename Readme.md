@@ -3,7 +3,7 @@
 * 유투브 영상으로 기록
     * [1편] https://youtu.be/kdszO_qXE5c
     * [2편] https://youtu.be/Ml4FUPbL7YU
-    * [3편]
+    * [3편] https://youtu.be/M-bQ4mceVPs
 
 
 # version 목표
