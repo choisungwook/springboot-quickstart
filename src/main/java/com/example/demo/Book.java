@@ -1,4 +1,4 @@
-package sungwook.sungwook;
+package com.example.demo;
 
 public class Book {
     private int id;
